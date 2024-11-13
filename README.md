@@ -16,6 +16,27 @@ Remover repositórios: O usuário pode remover repositórios da lista, facilitan
 ## Tecnologias Utilizadas
 
 React: Framework JavaScript utilizado para construir a interface do usuário.
+
 API do GitHub: API utilizada para buscar informações sobre repositórios no GitHub.
+
 Axios: Biblioteca utilizada para fazer requisições HTTP à API do GitHub.
+
 Styled Components: Utilizado para estilizar a interface da aplicação de maneira modular e reutilizável.
+
+## Como Rodar o Projeto
+
+Como Rodar o Projeto
+Clone o repositório:
+git clone https://github.com/seu-usuario/github-repositories-app.git
+
+Navegue até a pasta do projeto:
+cd github-repositories-app
+
+Instale as dependências:
+npm install
+
+Inicie a aplicação:
+npm start
+
+Acesse a aplicação no navegador:
+`http://localhost:3000`
